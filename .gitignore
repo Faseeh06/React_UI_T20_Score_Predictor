@@ -9,4 +9,5 @@ build/
 .vercel
 .turbo
 
-.next/
+# Large model files
+public/models/*.pkl
